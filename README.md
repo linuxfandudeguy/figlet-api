@@ -36,11 +36,15 @@ The Figlet API allows you to generate ASCII art from text using different fonts.
 
 To generate ASCII art, use a `curl` command like this:
 
-`curl "https://figletapi.vercel.app/api/figlet/Slant?text=Hello%20World"`
+```bash
+curl "https://figletapi.vercel.app/api/figlet/Slant?text=Hello%20World"
+```
 
 To list available fonts, use:
 
-`curl "https://figletapi.vercel.app/api/fonts"`
+```bash
+curl "https://figletapi.vercel.app/api/fonts"
+```
 
 ## Development
 
@@ -48,7 +52,9 @@ To run the API locally:
 
 1. Clone the repository:
 
-   ```git clone https://github.com/linuxfandudeguy/figlet-api.git```
+```bash
+git clone https://github.com/linuxfandudeguy/figlet-api.git
+```
 
 2. Change to the project directory:
 
@@ -58,14 +64,13 @@ cd figlet-api
 
 3. Install dependencies:
 
-bash```
+```bash
 npm install
-```
 ```
 
 4. Start the server:
 
-bash```
+```bash
 npm start
 ```
 
