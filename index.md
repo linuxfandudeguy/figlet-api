@@ -83,5 +83,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 **Tarball(.tar.gz)**: 
 
-[![Download Random Username API](https://lelbois.nekoweb.org/download.svg)](https://github.com/randomusernameapi/randomusernameapi.github.io/raw/main/archive.tar.gz)
+[![Download API](https://lelbois.nekoweb.org/download.svg)](https://github.com/linuxfandudeguy/figlet-api/raw/master/api-archive.tar.gz)
 
