@@ -78,3 +78,10 @@ npm start
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Download Archive
+
+**Tarball(.tar.gz)**: 
+
+[![Download Random Username API](https://lelbois.nekoweb.org/download.svg)](https://github.com/randomusernameapi/randomusernameapi.github.io/raw/main/archive.tar.gz)
+
