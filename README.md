@@ -52,17 +52,22 @@ To run the API locally:
 
 2. Change to the project directory:
 
-bash```
+```bash
 cd figlet-api
 ```
 
 3. Install dependencies:
 
-   ```npm install```
+bash```
+npm install
+```
+```
 
 4. Start the server:
 
-   ```npm start```
+bash```
+npm start
+```
 
 
 ## License
