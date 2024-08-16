@@ -52,7 +52,9 @@ To run the API locally:
 
 2. Change to the project directory:
 
-   ```cd figlet-api```
+bash```
+cd figlet-api
+```
 
 3. Install dependencies:
 
