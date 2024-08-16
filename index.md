@@ -1,4 +1,4 @@
-# Figlet API
+# FigletAPI
 
 ## Overview
 
